@@ -23,7 +23,3 @@ This project analyzes MISUO sales data using Microsoft Excel to identify sales t
 
 ## Project Files
 - `MISUO_Sales_Data.xlsx`
-
-## Dashboard Preview
-
-![Dashboard](screenshots/dashboard.png)
